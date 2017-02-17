@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculadora</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="v0">0</string>
+    <string name="v1">1</string>
+    <string name="v2">2</string>
+    <string name="v3">3</string>
+    <string name="v4">4</string>
+    <string name="v5">5</string>
+    <string name="v6">6</string>
+    <string name="v7">7</string>
+    <string name="v8">8</string>
+    <string name="v9">9</string>
+
+
+
+</resources>
